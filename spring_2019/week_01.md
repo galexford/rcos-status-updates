@@ -1,24 +1,18 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+Last week, I worked on the database schema and integrating Firebase with our Android app. I made a database
+in the Firebase web app, but have not yet connected it to the Android app. Last week, I also researched Firebase's
+capabilities and benefits compared to other frameworks.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+This week, I plan to commect the Android app to the Firebase server. This will allow me to connect some of the
+already implemented frontend features to the backend features Firebase offers. Also, I will be able to store
+user information.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+I am having trouble locating my SHA 1 code needed to connect the app to the server, but I should be able to find
+this, too.
 
 ## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
