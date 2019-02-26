@@ -1,0 +1,2 @@
+Worked on Firebase and Android app connections. Having trouble connecting
+to the Firebase sdk. Researching different ways of connecting.

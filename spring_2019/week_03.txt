@@ -1,0 +1,2 @@
+Haven't done too much due to 3 tests this week. But will continue researching how
+to connect to Firebase sdk this week.
